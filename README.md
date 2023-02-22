@@ -32,7 +32,7 @@ Activities when you embark on a Cup Adventure:
 
 
 3. 
-build code with pip environment (ensure that streamlit has all the dependencies that we need)
+Build code with pip environment (ensure that streamlit has all the dependencies that we need)
 
 4. 
 Frontend: Streamlit
