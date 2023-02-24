@@ -17,7 +17,7 @@ Activities when you embark on a Cup Adventure:
 - _Return_: Return the cup before embarking on a new adventure.
 - _Save the earth_: Every time you use a reusable cup, mother earth hugs you very tight to show her thanks
 
-
+## A. Our Website for cafe managers:
 ### Steps: 
 1.  Create the SQL Database and generate fake data
 ![image (2)](https://user-images.githubusercontent.com/89174034/208215166-2a94f850-fe47-4d21-b6cc-44ac2b96e6cc.png)
@@ -77,7 +77,15 @@ Can sign in with the following information:
 <img width="499" alt="Screen Shot 2022-12-16 at 5 25 54 PM" src="https://user-images.githubusercontent.com/89174034/208216467-5506b391-93aa-4b86-b195-295c7afb56e5.png">
 
 
+## B. Our App for users:
 
+
+<img width="363" alt="app1" src="https://user-images.githubusercontent.com/89174034/221183521-0d6c1b00-5357-45e1-82ee-9841df1c809c.png">
+<img width="347" alt="app2" src="https://user-images.githubusercontent.com/89174034/221183525-2766e7f1-2388-41ff-9f8c-558c270a5eb0.png">
+<img width="340" alt="appn" src="https://user-images.githubusercontent.com/89174034/221183527-3e6812ac-1578-477e-8bb2-ec0375f72b05.png">
+<img width="336" alt="appn+1" src="https://user-images.githubusercontent.com/89174034/221183532-b456d69a-8b18-43c3-99cf-c79d6fadf468.png">
+<img width="337" alt="grab" src="https://user-images.githubusercontent.com/89174034/221183534-e7be4740-86e0-4915-8765-272472600982.png">
+<img width="334" alt="return" src="https://user-images.githubusercontent.com/89174034/221183536-020df981-1d6f-4a08-a504-b7968d2eea6a.png">
 
 
 ## How we built it
