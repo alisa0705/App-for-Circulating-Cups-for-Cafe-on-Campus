@@ -3,7 +3,7 @@
 
 Final Project for IDS 706: Data Engineering Systems
 
-## Checkout our website here:
+## Check our website here:
 [CupsAdventure Website](http://cupsadventure.tech)
 
 ## Inspiration
